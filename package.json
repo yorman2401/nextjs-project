@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0",
+  "name": "practice-nextjs",
+  "author": "yorman jose",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "license": "",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/cors": "2.x",
+    "cors": "2.x",
+    "isomorphic-unfetch": "3.x",
+    "next": "11.1.x",
+    "react": "17.x",
+    "react-dom": "17.x",
+    "semantic-ui-css": "2.x",
+    "semantic-ui-react": "2.x"
+  },
+  "devDependencies": {
+    "@types/node": "16.x",
+    "@types/react": "17.x",
+    "typescript": "4.4.x"
+  }
+}
